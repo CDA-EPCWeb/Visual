@@ -4,9 +4,9 @@ Este repositório é um trabalho desenvolvido pelo Grupo A do projeto Covid Data
 O repositório esta organizado em uma pasta por representação visual. Cada uma dessas pastas contem um ReadMe detalhando passo a passo como executar sua função.
 
 ## Representações Visuais 
-- Mapas de Indicadores Epidemiológicos
+#### Mapas de Indicadores Epidemiológicos
 >> inserir imagem
-- Graficos de indicadores Epidemiológicos 
+#### Graficos de indicadores Epidemiológicos 
  ![novos_casos](https://user-images.githubusercontent.com/58361234/92538919-640d0a80-f216-11ea-9fb9-70508a728745.png)
 
 
