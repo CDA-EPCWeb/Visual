@@ -1,5 +1,5 @@
 # Representações Visuais 
-Este repositório é um trabalho desenvolvido pelo Grupo A do projeto Covid Data Analytics (veja mais em covid.dcc.ufmg.br). Aqui, são desenvolvidas visualizações a partir de bases de dados tratadas no repositório "https://github.com/EPCWeb-Covid/Tratamento-de-dados"
+Este repositório é um trabalho desenvolvido pelo Grupo A do projeto Covid Data Analytics (veja mais em covid.dcc.ufmg.br).  Aqui, serão desenvolvidas representações visuais a partir dados estudados. Vale ressaltar que boa parte dos dados são tratados no seguinte repositório https://github.com/EPCWeb-Covid/Tratamento-de-dados.
 
 O repositório esta organizado em uma pasta por representação visual. Cada uma dessas pastas contem um ReadMe detalhando passo a passo como executar sua função.
 
